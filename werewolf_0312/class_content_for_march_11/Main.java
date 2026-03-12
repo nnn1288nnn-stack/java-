@@ -1,3 +1,4 @@
+package werewolf_0312.class_content_for_march_11;
 import java.util.Scanner;
 
 
